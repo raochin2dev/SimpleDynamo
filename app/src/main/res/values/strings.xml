@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">SimpleDynamo</string>
+    <string name="action_settings">Settings</string>
+    <string name="button_ldump">LDump</string>
+    <string name="button_gdump">GDump</string>
+    <string name="button_test">Test</string>
+    <string name="button_test_i">TestI</string>
+    <string name="button_test_q">TestQ</string>
+    <string name="button_test_d">TestD</string>
+    <string name="content_uri">edu.buffalo.cse.cse486586.simpledynamo.provider</string>
+    <string name="value">value</string>
+    <string name="key">key</string>
+    <string name="table_name">messages</string>
+
+</resources>
